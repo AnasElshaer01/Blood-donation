@@ -40,7 +40,6 @@ Selecting model using TPOT
 
 ![Model_pipline](Photos//tpot-ml-pipeline.png)
 
-
 Checking the variance
 
 Log normalization
@@ -74,7 +73,7 @@ Training the Logistic regression Model
 
 
 
-![technocolabslogo](Photos//techocolabs logo.jpg)
+
 
 >On boarding task for technocolabs Datascience intership    
        
