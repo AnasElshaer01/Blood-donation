@@ -54,11 +54,6 @@ Training the Logistic regression Model
 
 
 
-#Predict Blood Donation for Future Expectancy
-
-
-This project is about Predict Blood donor will donate withn a given time window.
-
 
 
 
@@ -79,4 +74,7 @@ This project is about Predict Blood donor will donate withn a given time window.
 
 
 
-On boarding task for technocolabs Datascience intership                  
+![technocolabslogo](Photos//techocolabs logo.jpg)
+
+>On boarding task for technocolabs Datascience intership    
+       
