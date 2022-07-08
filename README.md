@@ -75,5 +75,5 @@ Training the Logistic regression Model
 
 
 
->On boarding task for technocolabs Datascience intership    
+>On boarding task for technocolabs Datascience internship    
        
