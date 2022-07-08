@@ -1,8 +1,8 @@
 
-![Logo]()
+![Blood donation](Photos//blood_donation.png)
 
 
-#Predict Blood Donation for Future Expectancy
+## Predict Blood Donation for Future Expectancy
 
 
 This project is about Predict Blood donor will donate withn a given time window.
@@ -38,7 +38,7 @@ Splitting transfusion into train and test datasets
 
 Selecting model using TPOT
 
-![]()
+![Model_pipline](Photos//tpot-ml-pipeline.png)
 
 
 Checking the variance
@@ -101,4 +101,7 @@ Training the Logistic regression Model
                     
                     
                     
+
+
+
 On boarding task for technocolabs Datascience intership                  
